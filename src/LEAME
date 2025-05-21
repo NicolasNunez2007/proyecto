@@ -1,0 +1,10 @@
+-----------------------
+comandos de git
+git add . = agregar archivos 
+git commit -m " titulo de cambio " = nombre de el cambio
+git push origin main 
+git init = inicializar comando 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/NicolasNunez2007/proyecto.git
+git push -u origin main
